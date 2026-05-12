@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aravinth%20Raj%20R&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Computer%20Science%20%26%20Engineering%20Student&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Aravinth%20Raj%20R&fontSize=42&fontAlignY=35&desc=Problem%20Solver%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18&animation=twinkling&fontColor=ffffff&color=0:0D1F0F,50:1A3A1E,100:2D6A4F" width="100%" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+in+Making+%F0%9F%9A%80;Problem+Solver+%7C+DSA+Enthusiast+%F0%9F%A7%A0;Open+Source+Contributor+%F0%9F%8C%9F;Always+Learning%2C+Always+Growing+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;Problem+Solver+%7C+DSA+Enthusiast+%F0%9F%A7%A0;Open+Source+Contributor+%F0%9F%8C%9F;Always+Learning%2C+Always+Growing+%F0%9F%93%9A" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -16,6 +16,9 @@
   <a href="https://www.linkedin.com/in/aravinth-raj-868963288/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://leetcode.com/u/AravinthRaj239/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
   <a href="https://www.geeksforgeeks.org/user/aravintnp8t/"><img src="https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white" alt="GFG"/></a>
+  <a href="https://www.skillrack.com/faces/resume.xhtml?id=440619&key=454ab63e4f875b92e95ecbb5561046c0dc5f6aa7">
+  <img src="https://img.shields.io/badge/SkillRack-5C9DFF?style=flat&logo=hackerrank&logoColor=white" alt="SkillRack"/>
+</a>
 </p>
 
 </div>
@@ -26,18 +29,23 @@
 
 ```yaml
 name: Aravinth Raj R
-location: Thoothukudi, Tamil Nadu, India
+location: Thoothukudi, Tamil Nadu, India 🌏
 education: B.E. Computer Science & Engineering (2nd Year)
-status: Passionate Developer & Problem Solver
+status: Passionate Developer & Problem Solver 🚀
+
+about:
+  - 💡 I love turning ideas into real-world applications
+  - 🔨 Built and shipped live full-stack products (NEC Store, NEC Staff Hub)
+  - 🌐 Portfolio → https://aravinthraj-dev.onrender.com/
 
 currently_learning:
   - Full Stack Web Development (MERN Stack)
   - Data Structures & Algorithms
-  - System Design
+  - System Design & Architecture
 
 interests:
-  - Building real-world web applications
-  - Competitive Programming
+  - Building production-ready web applications
+  - Competitive Programming (LeetCode | GFG | SkillRack)
   - Open Source contributions
 
 fun_fact: "I debug with console.log and I'm proud of it 😄"
@@ -89,97 +97,54 @@ fun_fact: "I debug with console.log and I'm proud of it 😄"
   <tr>
     <td width="50%">
       <h3 align="center">✈️ Airline Management System</h3>
-      <p align="center">
-        <a href="https://github.com/RAravinthRaj/airline-passenger-and-luggage-management-system">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
-        </a>
-      </p>
-      <p>A C++ based system to handle airline passenger check-ins, baggage management, and flight operations efficiently — solving real-world airport inefficiencies.</p>
+      <p align="center"><a href="https://github.com/RAravinthRaj/airline-passenger-and-luggage-management-system"><img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/></a></p>
+      <p>C++ system for airline check-ins, baggage handling, and flight management.</p>
       <p><b>Stack:</b> C++</p>
     </td>
     <td width="50%">
       <h3 align="center">🛒 NEC Store (E-Commerce)</h3>
       <p align="center">
-        <a href="https://github.com/RAravinthRaj/nec-store-react">
-          <img src="https://img.shields.io/badge/Frontend-181717?style=for-the-badge&logo=github"/>
-        </a>
-        <a href="https://github.com/RAravinthRaj/nec-store-node">
-          <img src="https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=github"/>
-        </a>
+        <a href="https://github.com/RAravinthRaj/nec-store-react2.0"><img src="https://img.shields.io/badge/Frontend-181717?style=for-the-badge&logo=github"/></a>
+        <a href="https://github.com/RAravinthRaj/nec-store-node2.0"><img src="https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=github"/></a>
+        <a href="https://nec.edu.in/necstoreapp/"><img src="https://img.shields.io/badge/Live-28a745?style=for-the-badge&logo=vercel&logoColor=white"/></a>
       </p>
-      <p>A full-stack e-commerce web application with a React frontend and Node.js backend built with TypeScript.</p>
+      <p>Full-stack e-commerce app with React frontend and Node.js backend.</p>
       <p><b>Stack:</b> React, Node.js, TypeScript</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">📝 Todo App</h3>
+      <h3 align="center">🏢 NEC Staff Hub</h3>
       <p align="center">
-        <a href="https://github.com/RAravinthRaj/todo-app">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
-        </a>
+        <a href="https://github.com/RAravinthRaj/nec-staff-hub-rn"><img src="https://img.shields.io/badge/Frontend-181717?style=for-the-badge&logo=github"/></a>
+        <a href="https://github.com/RAravinthRaj/nec-staff-hub-node"><img src="https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=github"/></a>
       </p>
-      <p>A clean and functional task management app with full CRUD capabilities.</p>
-      <p><b>Stack:</b> JavaScript</p>
+      <p>A staff management portal for handling employee data and operations.</p>
+      <p><b>Stack:</b> TypeScript, Node.js</p>
     </td>
     <td width="50%">
-      <h3 align="center">🏠 PG Life</h3>
-      <p align="center">
-        <a href="https://github.com/RAravinthRaj/pg-life">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
-        </a>
-      </p>
-      <p>A PG/rental accommodation finding platform built with PHP, helping students find housing near colleges.</p>
-      <p><b>Stack:</b> PHP, MySQL</p>
+      <h3 align="center">📝 Todo App</h3>
+      <p align="center"><a href="https://github.com/RAravinthRaj/todo-app"><img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/></a></p>
+      <p>A clean task management app with full CRUD capabilities.</p>
+      <p><b>Stack:</b> JavaScript</p>
     </td>
   </tr>
 </table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RAravinthRaj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAravinthRaj&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RAravinthRaj&theme=tokyonight&hide_border=true" width="70%"/>
-
-</div>
-
----
-
-## 🏆 Coding Profiles
-
-<div align="center">
-
-| Platform | Profile |
-|----------|---------|
-| 🟡 **LeetCode** | [AravinthRaj239](https://leetcode.com/u/AravinthRaj239/) |
-| 🟢 **GeeksForGeeks** | [aravintnp8t](https://www.geeksforgeeks.org/user/aravintnp8t/) |
-| 🔵 **SkillRack** | [View Profile](https://www.skillrack.com/faces/resume.xhtml?id=440619&key=454ab63e4f875b92e95ecbb5561046c0dc5f6aa7) |
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RAravinthRaj&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
----
 
 ## 🤝 Let's Connect!
 
 <div align="center">
 
+<a href="https://aravinthraj-dev.onrender.com/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+&nbsp;
 <a href="https://www.linkedin.com/in/aravinth-raj-868963288/">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -187,6 +152,3 @@ fun_fact: "I debug with console.log and I'm proud of it 😄"
 > *"Code is like humor. When you have to explain it, it's bad." — Cory House*
 
 </div>
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
