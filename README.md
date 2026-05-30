@@ -18,6 +18,8 @@
   <a href="https://www.geeksforgeeks.org/user/aravintnp8t/"><img src="https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white" alt="GFG"/></a>
   <a href="https://www.skillrack.com/faces/resume.xhtml?id=440619&key=454ab63e4f875b92e95ecbb5561046c0dc5f6aa7">
   <img src="https://img.shields.io/badge/SkillRack-5C9DFF?style=flat&logo=hackerrank&logoColor=white" alt="SkillRack"/>
+  <a href="https://aravinthraj-dev.onrender.com/">
+  <img src="https://img.shields.io/badge/Portfolio-228594?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 </p>
 
@@ -29,26 +31,18 @@
 
 ```yaml
 name: Aravinth Raj R
-location: Thoothukudi, Tamil Nadu, India 🌏
-education: B.E. Computer Science & Engineering (2nd Year)
-status: Passionate Developer & Problem Solver 🚀
+location: Thoothukudi, Tamil Nadu, India 
+education: B.E. Computer Science & Engineering (Final Year)
+status: Passionate Developer & Problem Solver 
 
 about:
-  - 💡 I love turning ideas into real-world applications
-  - 🔨 Built and shipped live full-stack products (NEC Store, NEC Staff Hub)
-  - 🌐 Portfolio → https://aravinthraj-dev.onrender.com/
-
-currently_learning:
-  - Full Stack Web Development (MERN Stack)
-  - Data Structures & Algorithms
-  - System Design & Architecture
+  -  I love turning ideas into real-world applications
+  -  Built and shipped live full-stack products (NEC Store, NEC Staff Hub)
 
 interests:
   - Building production-ready web applications
   - Competitive Programming (LeetCode | GFG | SkillRack)
   - Open Source contributions
-
-fun_fact: "I debug with console.log and I'm proud of it 😄"
 ```
 
 ---
@@ -57,12 +51,9 @@ fun_fact: "I debug with console.log and I'm proud of it 😄"
 
 ### Languages
 <p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ### Frontend
@@ -86,7 +77,6 @@ fun_fact: "I debug with console.log and I'm proud of it 😄"
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 ---
